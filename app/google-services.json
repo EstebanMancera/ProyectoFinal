@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553010901494",
+    "firebase_url": "https://friendlyrestaurant-e479f.firebaseio.com",
+    "project_id": "friendlyrestaurant-e479f",
+    "storage_bucket": "friendlyrestaurant-e479f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553010901494:android:00c88ae37c776a36a197d7",
+        "android_client_info": {
+          "package_name": "com.proyectofinal.friendlyrestaurantv12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553010901494-gdj62nja7ef09t94376lgg5utggcde4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyectofinal.friendlyrestaurantv12",
+            "certificate_hash": "e00450a104b8f57048fcbe51a3791433bae7f12c"
+          }
+        },
+        {
+          "client_id": "553010901494-64ufgcemgm03u9r3q510sb1oa55up9ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq7095-mYqKZlKoTKLKuIqapLlDv18RU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553010901494-64ufgcemgm03u9r3q510sb1oa55up9ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
